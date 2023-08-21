@@ -1,5 +1,6 @@
 # rushbitcoin
 Earn Crypto Web Script
+![image](https://github.com/sixteen-crypto/rushbitcoin/blob/main/IMG_20230821_035444_139.jpg)
 
 # Get your API for Audio Captcha
   - http://assemblyai.com/
