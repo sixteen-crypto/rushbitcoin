@@ -16,3 +16,6 @@ Manual installation
  - _pip install bs4_
 
  - _pip install requests_toolbelt_
+
+#Faucet
+ - here[https://rushbitcoin.com]
