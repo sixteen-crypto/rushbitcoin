@@ -18,4 +18,4 @@ Manual installation
  - _pip install requests_toolbelt_
 
 #Faucet
- - [here](https://rushbitcoin.com)https://rushbitcoin.com
+ - [here](https://rushbitcoin.com)
